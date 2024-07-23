@@ -1,0 +1,442 @@
+{
+    "public_identifier": "alec-hantson",
+    "profile_pic_url": "https://media.licdn.com/dms/image/D4E03AQEEuAkVPfLXkg/profile-displayphoto-shrink_800_800/0/1694109441232?e=1727308800&v=beta&t=Yk6jP0iUDrwKf8OylR6jjfpeI1c10SACSCum8Q6-Hq0",
+    "background_cover_image_url": null,
+    "first_name": "Alec",
+    "last_name": "Hantson",
+    "full_name": "Alec Hantson",
+    "follower_count": 261,
+    "occupation": "Data Scientist at Ordina",
+    "headline": "Data Scientist at Ordina",
+    "summary": null,
+    "country": "BE",
+    "country_full_name": "Belgium",
+    "city": "Belgium",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Ordina",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ordinaasoprasteriacompany",
+            "company_facebook_profile_url": null,
+            "title": "Data Scientist",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ordinaasoprasteriacompany/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240723%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240723T142058Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=e764c828b1d2c2f750a38e2248592d63d1e5c141e8cb7c059d4848454f95ed2c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2023
+            },
+            "company": "Docflow",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/docfield",
+            "company_facebook_profile_url": null,
+            "title": "Machine Learning Engineer",
+            "description": "Create, standartise, sign and publish documents & contracts with ease - docflow.co.",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/docfield/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240723%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240723T142058Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=546cc19878c52afecfe9d54cde6a6235a48b331ae0e74906c344543450a95a98"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2022
+            },
+            "company": "Docflow",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/docfield",
+            "company_facebook_profile_url": null,
+            "title": "Machine Learning Intern",
+            "description": "Create, standartise, sign and publish documents & contracts with ease - docflow.co.",
+            "location": "Amsterdam, Noord-Holland, Nederland",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/docfield/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240723%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240723T142058Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=546cc19878c52afecfe9d54cde6a6235a48b331ae0e74906c344543450a95a98"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "company": "Co-libry",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/colibrybe",
+            "company_facebook_profile_url": null,
+            "title": "Student Data Scientist",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/colibrybe/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240723%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240723T142058Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=04dcdccf3ea84a4f2296708b09204222ba2a853376c80676159e710cc653bb8b"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2021
+            },
+            "company": "WeGroup",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wegroup-platform",
+            "company_facebook_profile_url": null,
+            "title": "Machine Learning Student",
+            "description": null,
+            "location": "Gent, Vlaanderen, Belgi\u00eb",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/wegroup-platform/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240723%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240723T142058Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=3d330f85efe2650d3a38860c7b7bb0d989f051f574ad6ffe73c630b80576de14"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2020
+            },
+            "company": "Meat&More",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/meat&more",
+            "company_facebook_profile_url": null,
+            "title": "Student Test Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/meat%26more/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240723%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240723T142058Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=3f69ddb3ba3a4ae55b0d09bd28aca89ce146180065af5b6075d43fe19d02062c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2020
+            },
+            "company": "FLIR Optical Systems Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/new-england-optical-systems",
+            "company_facebook_profile_url": null,
+            "title": "Data Entry Clerk",
+            "description": null,
+            "location": "Kortrijk, Flemish Region, Belgium",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/new-england-optical-systems/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240723%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240723T142058Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d50fcb6fdce5df46a439a5ffab09886a48212f6d3144f1598ce3bd3fa9eace56"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "AgilePoint EMEA",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/agilepoint-emea",
+            "company_facebook_profile_url": null,
+            "title": "Clerk",
+            "description": null,
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2019
+            },
+            "company": "My-Websitebuilder.com",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/my-websitebuilder.com",
+            "company_facebook_profile_url": null,
+            "title": "Web Designer",
+            "description": null,
+            "location": "Oudenaarde, Flemish Region, Belgium",
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2023
+            },
+            "field_of_study": "IT-management",
+            "degree_name": "Postgraduate Degree",
+            "school": "HOGENT",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/164203/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/hogeschool-gent/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240723%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240723T142058Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ef8becaf085902440a82d278a33d2f91659ec6242f63afd337debf5324935d0b",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2022
+            },
+            "field_of_study": "Computer Science (AI Engineer)",
+            "degree_name": "Bachelors degree",
+            "school": "Howest - Bachelor of New Media and Communication Technology",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15106039/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/howest-mct/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240723%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240723T142058Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=9e8ce132e69d8f4c4d5fd909dab9240129fcf7b3bc28fb36cec8cc917d576a88",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2022
+            },
+            "title": "Bachelor thesis",
+            "description": null,
+            "url": "https://github.com/HantsonAlec/Portfolio/blob/main/Alec_Hantson_BP_final.pdf"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2025
+            },
+            "name": "Data Scientist Associate Certificate",
+            "license_number": "DSA0010418822378",
+            "display_source": "datacamp.com",
+            "authority": "DataCamp",
+            "url": "https://www.datacamp.com/certificate/DSA0010418822378"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "Microsoft Certified: Azure AI Fundamentals",
+            "license_number": "60C797BD3F1A447F",
+            "display_source": "microsoft.com",
+            "authority": "Microsoft",
+            "url": "https://learn.microsoft.com/api/credentials/share/en-us/AlecHantson-4431/60C797BD3F1A447F?sharingId=8F904566FFE2EB26"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "PCAP - Certified Associate in Python Programming",
+            "license_number": "PzTM.L8dv.chMf",
+            "display_source": "openedg.org",
+            "authority": "OpenEDG Python Institute",
+            "url": "https://verify.openedg.org/?id=PzTM.L8dv.chMf"
+        }
+    ],
+    "connections": 257,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/casperdebock?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD9TzDsBRCsfcwDTs1vleTqfREC_INmeMSs",
+            "name": "Casper De Bock",
+            "summary": "Toegepaste informatica Student aan HOGENT",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kimberly-hermans?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA4E0bABTSolQF7lDg9xSpB_AbDF8cUNmjk",
+            "name": "Kimberly Hermans",
+            "summary": "Director AI & data science supporting companies to benefit from artificial intelligence by positive ROI\u2019s, on time projects, happy & loyal data specialists",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tomma-vlaemynck-a57253179?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACo3lyMBoXQv4CWK1bBMBlJU0wwprNbk19s",
+            "name": "Tomma Vlaemynck",
+            "summary": "Student Applied Information Technology - AI & Data Engineering",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kenneth-de-potter?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACTsOLQBH83HRvjyzk6r0dbektl-rSi0qp8",
+            "name": "Kenneth De Potter",
+            "summary": "Master of Arts - MA at Breda University of Applied Sciences",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/loeka-lievens?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADDOngUB4r87BlnctgAH2-X2GeK8m5KQjoc",
+            "name": "Loeka Lievens",
+            "summary": "Passionate computer science student & developer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/rein-vanden-berghe-a3b71b212?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADXbFQ8But5O0xd79RNl2VMaGPgPgdA-ETo",
+            "name": "Rein Vanden Berghe",
+            "summary": "Data Scientist at Flexcity",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/quinten-de-clercq?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACrCB6EBtINZtKP_2lnLjkxR4aSfTehM0ds",
+            "name": "Quinten De Clercq",
+            "summary": "Project leider at Decxan Plastics",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/stijn-de-cuyper?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACls0DABx5bMrMkrZSpAaK7_vw4a5dT7_XU",
+            "name": "Stijn De Cuyper",
+            "summary": "Master of Science in Information Engineering Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/wannes-klaassen?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD7eHw4BId1PubxgUH4PeUJKn9ec-uzbStM",
+            "name": "Wannes Klaassen",
+            "summary": "System Engineer at Axxes",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yori-verbist-371572193?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC13soUBR9jttzblCz-WmXMbjpdRCP2HWUk",
+            "name": "Yori Verbist",
+            "summary": "Artificial Intelligence student",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D4E07AQFVQnOnFpP6MQ/group-logo_image-shrink_400x400/0/1718928605693?e=1722351600&v=beta&t=5CybZ6ZYsuZSQFrlCeZeBdXefFEqhXaSPOInM_OJLKo",
+            "name": "Autonomous Innovation Summit Community",
+            "url": "https://www.linkedin.com/groups/13052123"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQFdcm7Ke06GVQ/group-logo_image-shrink_400x400/0/1630996740560?e=1722351600&v=beta&t=IGabodq9MkEzaUEdb4h8pzv7s9w13UhpwV3oePobRc8",
+            "name": "Data News",
+            "url": "https://www.linkedin.com/groups/123946"
+        }
+    ],
+    "skills": [
+        "PostgreSQL",
+        "Artificial Intelligence (AI)",
+        "Microsoft Azure Machine Learning",
+        "Data Management",
+        "Data Visualization",
+        "Communication",
+        "Data Science",
+        "Data Analysis",
+        "Ruby on Rails",
+        "Kunstmatige intelligentie",
+        "Terraform",
+        "Transformers",
+        "Problem Solving",
+        "Python (Programming Language)",
+        "JavaScript",
+        "Sensors",
+        "Web Development",
+        "Programming",
+        "Testing",
+        "Data Entry",
+        "Machine Learning",
+        "html & css",
+        "MySQL",
+        "Arduino",
+        "PHP",
+        "Adobe Photoshop",
+        "Adobe XD",
+        "Flask",
+        "SQL",
+        "Microsoft Azure",
+        "Xamarin Products",
+        "C#",
+        ".NET Framework",
+        "Databases",
+        "Azure IoT",
+        "Pandas",
+        "Python",
+        "English",
+        "Raspberry Pi",
+        "Test Engineering",
+        "SQL Azure",
+        "Internet of Things (IoT)",
+        "Scikit-Learn",
+        "Machinaal leren",
+        "Deep learning",
+        "TensorFlow",
+        "PyTorch"
+    ],
+    "inferred_salary": {
+        "min": null,
+        "max": null
+    },
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": {
+        "github_profile_id": null,
+        "twitter_profile_id": null,
+        "facebook_profile_id": null
+    },
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
