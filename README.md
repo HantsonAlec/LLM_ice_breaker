@@ -23,6 +23,9 @@ To get started with the **LLM_Ice_Breaker** app, follow these steps:
     OPENAI_API_KEY='XXXXX' (Optional, current implementation uses open-source models)
     PROXYCURL_API_KEY ='XXXXX'
     TAVILY_API_KEY ='XXXXX'
+    LANGCHAIN_TRACING_V2=true
+    LANGCHAIN_API_KEY='XXXXX'
+    LANGCHAIN_PROJECT='Ice Breaker'
    ```
 
 4. **Run the app**:
